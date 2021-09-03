@@ -9,6 +9,7 @@
 - 🎓 Computing Systems
 - ✌ Open to collaborate on projects
 - 👀 Interested in UI/UX 
+<br>
 
 <hr>
 
