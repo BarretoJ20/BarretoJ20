@@ -9,10 +9,8 @@
 - 🎓 Computing Systems
 - ✌ Open to collaborate on projects
 - 👀 Interested in UI/UX 
-<br>
 
 <hr>
-
 
 <div>
   <a href="https://github.com/BarretoJ20">
