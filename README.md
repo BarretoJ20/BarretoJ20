@@ -8,7 +8,7 @@
 - 🎨 Love art and design
 - 🎓 Computing Systems
 - ✌ Open to collaborate on projects
-- 👀 Interested in UI/UX 
+- 👀 UI/UX designer
 
 <hr>
 
