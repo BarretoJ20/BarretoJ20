@@ -3,12 +3,13 @@
 
 <img align="right" height="170" alt="gif" src="https://c.tenor.com/hUYB0lAeV9UAAAAM/wall-e-come-sit.gif">
 
+- 👀 UI/UX designer
 - 🎮 Game Developer
 - 💻 Currently learning Web dev focused on frontend
 - 🎨 Love art and design
 - 🎓 Computing Systems
 - ✌ Open to collaborate on projects
-- 👀 UI/UX designer
+
 
 <hr>
 
