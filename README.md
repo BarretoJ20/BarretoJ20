@@ -5,7 +5,6 @@
 
 - 👀 UI/UX designer
 - 🎮 Game Developer
-- 💻 Currently learning Web dev focused on frontend
 - 🎨 Love art 
 - 🎓 Computing Systems
 - ✌ Open to collaborate on projects
